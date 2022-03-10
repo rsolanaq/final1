@@ -9,5 +9,5 @@ package com.mycompany.prueba;
  * @author RICARDO
  */
 public class Prueba {
-    
+    System.out.println("Hola mundo");
 }
